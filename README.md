@@ -109,7 +109,7 @@ Sentiment-Analysis/
 
 | Model Accuracy Comparison |
 |---------------------------|
-| ![Accuracy](images/model_accuracy.png) |
+| ![Accuracy](model_comparison.png) |
 
 ---
 
