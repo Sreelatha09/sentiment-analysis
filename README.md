@@ -43,7 +43,7 @@ Sentiment-Analysis/
 ├── images/                       # Output plots, wordclouds
 ├── models/                       # Trained model files (if saved)
 ├── notebooks/
-│   └── Sentiment_Analysis.ipynb  # Main Jupyter notebook
+│   └── Sentiment_Analysis_amazon_reviews.ipynb  # Main Jupyter notebook
 ├── README.md                     # Project overview
 ├── requirements.txt              # Dependencies list
 └── .gitignore                    # Files to ignore in git
@@ -69,7 +69,6 @@ Sentiment-Analysis/
 - Naive Bayes
 - Support Vector Machine (SVM)
 - Random Forest
-- (Optional: Deep Learning with LSTM / BERT)
 
 ---
 
