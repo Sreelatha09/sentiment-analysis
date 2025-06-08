@@ -39,14 +39,14 @@ Sentiment analysis is a text classification technique that analyzes the polarity
 
 ```
 Sentiment-Analysis/
-├── data/                         # Raw/processed datasets
-├── images/                       # Output plots, wordclouds
-├── models/                       # Trained model files (if saved)
+├── data/                                        # Raw/processed datasets
+├── images/                                      # Output plots, wordclouds
+├── models/                                      # Trained model files (if saved)
 ├── notebooks/
 │   └── Sentiment_Analysis_amazon_reviews.ipynb  # Main Jupyter notebook
-├── README.md                     # Project overview
-├── requirements.txt              # Dependencies list
-└── .gitignore                    # Files to ignore in git
+├── README.md                                    # Project overview
+├── requirements.txt                             # Dependencies list
+└── .gitignore                                   # Files to ignore in git
 ```
 
 ---
