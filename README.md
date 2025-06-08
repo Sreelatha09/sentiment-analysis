@@ -29,8 +29,8 @@ Sentiment analysis is a text classification technique that analyzes the polarity
 
 ##  Dataset
 
-- **Name**: [Amazon Fine Food Reviews](https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews)
-- **Description**: Contains 568,000+ food reviews from Amazon with ratings from 1 to 5 stars.
+- **Name**: [Amazon Product Reviews](https://www.kaggle.com/datasets/datafiniti/consumer-reviews-of-amazon-products)
+- **Description**: Contains 568,000+ product reviews from Amazon with ratings from 1 to 5 stars.
 - **Format**: CSV
 
 ---
@@ -101,7 +101,7 @@ Sentiment-Analysis/
 
 ---
 
-## 🖼️ Screenshots
+##  Screenshots
 
 | sentiment - Distribution | Top Tf-idf Words |
 |-----------------------------|------------------------------|
