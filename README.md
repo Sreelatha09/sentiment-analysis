@@ -103,13 +103,13 @@ Sentiment-Analysis/
 
 ## 🖼️ Screenshots
 
-| Wordcloud - Positive Reviews | Wordcloud - Negative Reviews |
+| sentiment - Distribution | Top Tf-idf Words |
 |-----------------------------|------------------------------|
-| ![Positive](images/positive_wordcloud.png) | ![Negative](images/negative_wordcloud.png) |
+| ![Distribution](sentiment_distribution.png) | ![positive](top_tfidf_words.png) |
 
 | Model Accuracy Comparison |
 |---------------------------|
-| ![Accuracy](model_comparison.png) |
+| ![Accuracy](models_comparison.png) |
 
 ---
 
