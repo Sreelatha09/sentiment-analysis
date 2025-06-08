@@ -95,9 +95,9 @@ Sentiment-Analysis/
 
 ##  Results
 
-- **Best Model**: Support Vector Machine (SVM) with 88% accuracy *(example)*
+- **Best Model**: Random Forest algorithm  with 95% accuracy 
 - Wordclouds and charts show key sentiment-driving words
-- Evaluation: Confusion Matrix, Accuracy, Precision, Recall, F1 Score
+- Evaluation: Confusion Matrix, Accuracy, Precision, Recall, F1 Score,Support
 
 ---
 
