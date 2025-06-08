@@ -30,7 +30,7 @@ Sentiment analysis is a text classification technique that analyzes the polarity
 ##  Dataset
 
 - **Name**: [Amazon Product Reviews](https://www.kaggle.com/datasets/datafiniti/consumer-reviews-of-amazon-products)
-- **Description**: Contains 568,000+ product reviews from Amazon with ratings from 1 to 5 stars.
+- **Description**: Contains 10,000+ product reviews from Amazon with ratings from 1 to 5 stars.
 - **Format**: CSV
 
 ---
@@ -77,7 +77,7 @@ Sentiment-Analysis/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/Sentiment-Analysis.git
+   git clone https://github.com/Sreelatha09/Sentiment-Analysis.git
    cd Sentiment-Analysis
    ```
 
@@ -88,7 +88,7 @@ Sentiment-Analysis/
 
 3. **Launch the notebook**
    ```bash
-   jupyter notebook notebooks/Sentiment_Analysis.ipynb
+   jupyter notebook notebooks/Sentiment_Analysis_amazon_reviews.ipynb
    ```
 
 ---
